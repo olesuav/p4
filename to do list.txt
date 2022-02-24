@@ -1,0 +1,8 @@
+Top priorites
+- create a working collisions system
+- design some interactive elements on the level (opponents, buttons, switches, traps etc.)
+
+Other things
+- integrate the game with the menu
+- implement the music
+- upgrade the graphics
